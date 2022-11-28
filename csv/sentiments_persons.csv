@@ -1,107 +1,212 @@
 ,phrase,label,sentiment,subjectivity,language,count
-…,…,PER,0.0,0.0,de,10
-Wolfgang Schäuble,Wolfgang Schäuble,PER,0.64,0.0,de,5
-Putins,Putins,PER,-0.2416666666666667,0.0,de,4
-Kommt,Kommt,PER,0.0,0.0,de,3
-Energiesparen,Energiesparen,PER,0.0,0.0,de,3
+…,…,PER,0.07592592592592592,0.09259259259259259,de,27
+Wolfgang Schäuble,Wolfgang Schäuble,PER,0.3277777777777778,0.0,de,9
+Scholz,Scholz,PER,0.19999999999999998,0.0,de,7
+Putins,Putins,PER,-0.21944444444444447,0.0,de,6
+Freier,Freier,PER,0.7,0.0,de,5
+Kommt,Kommt,PER,0.0,0.0,de,5
+Gaskrise,Gaskrise,PER,-0.5,0.0,de,4
+Aldi,Aldi,PER,1.0,0.0,de,4
+Energiesparen,Energiesparen,PER,0.0,0.0,de,4
+Mario Mehren,Mario Mehren,PER,0.20416666666666666,0.4583333333333333,de,4
+Wirtschaftsminister Habeck,Wirtschaftsminister Habeck,PER,-0.1333333333333333,0.0,de,3
 Kräftiges,Kräftiges,PER,0.6999999999999998,0.0,de,3
-Bodo Ramelow,Bodo Ramelow,PER,0.0,0.0,de,2
-Aldi,Aldi,PER,1.0,0.0,de,2
-Eric Njuguna,Eric Njuguna,PER,-1.0,0.0,de,2
+Olaf Scholz,Olaf Scholz,PER,0.0,0.3333333333333333,de,3
+BILDplus,BILDplus,PER,0.2333333333333333,0.0,de,3
+Putin,Putin,PER,-0.5166666666666666,0.0,de,3
+Missverständliche,Missverständliche,PER,0.0,0.0,de,3
+Wintershall Dea,Wintershall Dea,PER,1.0,0.0,de,3
+Hubert Aiwanger,Hubert Aiwanger,PER,1.0,0.0,de,2
+Johan Eliasch,Johan Eliasch,PER,0.0,0.0,de,2
+Swen Hubrich,Swen Hubrich,PER,0.0,0.0,de,2
 Schäuble,Schäuble,PER,-0.85,0.0,de,2
-Leonore Gewessler.,Leonore Gewessler.,PER,1.0,0.0,de,2
-Fake-Flyer,Fake-Flyer,PER,0.0,0.0,de,2
-Mario Mehren,Mario Mehren,PER,0.4083333333333333,0.41666666666666663,de,2
-V.,V.,PER,0.0,0.0,de,2
+Gaspreisbremse,Gaspreisbremse,PER,-0.35,0.0,de,2
+Herbstes,Herbstes,PER,1.0,0.0,de,2
+Carl von Clausewitz,Carl von Clausewitz,PER,0.5,0.0,de,2
 Gabor Steingart,Gabor Steingart,PER,0.0,0.0,de,2
-André Birner,André Birner,PER,0.0,0.0,de,2
+Björn Alexander.,Björn Alexander.,PER,0.0,0.0,de,2
 Outdoor-Infrarotstrahler von Suntec,Outdoor-Infrarotstrahler von Suntec,PER,0.0,0.0,de,2
 Explodierende,Explodierende,PER,-1.0,0.0,de,2
+André Birner,André Birner,PER,0.0,0.0,de,2
+"Klaus Müller, Bürger","Klaus Müller, Bürger",PER,-0.25,0.25,de,2
+Wetterinstitute,Wetterinstitute,PER,0.0,0.0,de,2
+Kamine,Kamine,PER,0.0,0.0,de,2
+Sarah Werner,Sarah Werner,PER,0.7,0.0,de,2
+Leonore Gewessler.,Leonore Gewessler.,PER,1.0,0.0,de,2
+"Verstörende Kriegsbilder, die Angst","Verstörende Kriegsbilder, die Angst",PER,-0.875,0.0,de,2
+Eric Njuguna,Eric Njuguna,PER,-1.0,0.0,de,2
+Lindner,Lindner,PER,0.0,0.0,de,2
+Schmidhofer,Schmidhofer,PER,-0.35,0.0,de,2
 Winfried Kretschmann,Winfried Kretschmann,PER,1.0,0.0,de,2
-Sarah Werner,Sarah Werner,PER,0.7,0.0,de,1
+Wolfram Günther,Wolfram Günther,PER,0.0,0.0,de,2
+Kai Hufendiek,Kai Hufendiek,PER,-0.11666666666666665,0.0,de,2
+Behördenchef,Behördenchef,PER,-0.7,0.0,de,2
+Ottmar Edenhofer,Ottmar Edenhofer,PER,0.0,0.0,de,2
+Gasspeicherbetreiber,Gasspeicherbetreiber,PER,0.0,0.0,de,2
+Michael Vassiliadis,Michael Vassiliadis,PER,0.0,0.0,de,2
+Bundesinnenministerin Faeser,Bundesinnenministerin Faeser,PER,1.0,0.0,de,2
+Fake-Flyer,Fake-Flyer,PER,0.0,0.0,de,2
+Bodo Ramelow,Bodo Ramelow,PER,0.0,0.0,de,2
+Hause,Hause,PER,0.0,0.5,de,2
+Netzagentur-Chef Müller,Netzagentur-Chef Müller,PER,0.25,0.0,de,2
+Nord-Stream-Pipelines,Nord-Stream-Pipelines,PER,0.0,1.0,de,2
+V.,V.,PER,0.0,0.0,de,2
 Gerhard M…,Gerhard M…,PER,0.0,0.0,de,1
-Stefan Schleicher.,Stefan Schleicher.,PER,0.0,0.0,de,1
-Todesopfer,Todesopfer,PER,0.0,0.0,de,1
+Bnuhtel Pekullel,Bnuhtel Pekullel,PER,0.0,0.0,de,1
+Andreas Wellinger,Andreas Wellinger,PER,0.0,0.0,de,1
+Rettet Flüssiggas,Rettet Flüssiggas,PER,0.0,0.0,de,1
+Silvester,Silvester,PER,0.0,1.0,de,1
+Wintershall Dea.,Wintershall Dea.,PER,0.0,0.0,de,1
+Energie-Beratungsbedarf,Energie-Beratungsbedarf,PER,0.0,0.0,de,1
+Uniper-Chef,Uniper-Chef,PER,0.0,0.0,de,1
+Simonetta Sommaruga geric…,Simonetta Sommaruga geric…,PER,0.0,0.0,de,1
+Uniper-Chef Klaus-Dieter Maubach,Uniper-Chef Klaus-Dieter Maubach,PER,0.0,0.0,de,1
+Bund-Länder-Treffen: Kommt,Bund-Länder-Treffen: Kommt,PER,0.0,0.0,de,1
+Pullover,Pullover,PER,-0.3333333333333333,0.0,de,1
+V. Golod.</em>,V. Golod.</em>,PER,0.0,0.0,de,1
 R. Barth,R. Barth,PER,0.0,0.0,de,1
 Celsius,Celsius,PER,0.7,0.0,de,1
-Andreas Jung,Andreas Jung,PER,1.0,0.0,de,1
+Winterthur.,Winterthur.,PER,0.0,1.0,de,1
+Oliver Blume,Oliver Blume,PER,0.0,0.0,de,1
 Wärmerekord,Wärmerekord,PER,0.0,0.0,de,1
+Andreas Jung,Andreas Jung,PER,1.0,0.0,de,1
+herbstlicher,herbstlicher,PER,0.0,0.0,de,1
+Björn Alexan…,Björn Alexan…,PER,-0.85,0.0,de,1
+Stromlücke,Stromlücke,PER,0.0,0.0,de,1
+Weihnachtsstimmung light,Weihnachtsstimmung light,PER,0.0,0.0,de,1
 Können Waldbesitzer,Können Waldbesitzer,PER,-1.0,0.0,de,1
-Bund-Länder-Treffen: Kommt,Bund-Länder-Treffen: Kommt,PER,0.0,0.0,de,1
-Bnuhtel Pekullel,Bnuhtel Pekullel,PER,0.0,0.0,de,1
-Ottmar Edenhofer,Ottmar Edenhofer,PER,0.0,0.0,de,1
-V. Golod.</em>,V. Golod.</em>,PER,0.0,0.0,de,1
-ellelekeu Blelpplauete,ellelekeu Blelpplauete,PER,-1.0,0.0,de,1
-Winterthurer Bäumen,Winterthurer Bäumen,PER,0.0,0.0,de,1
-Nikolas Popper,Nikolas Popper,PER,1.0,0.0,de,1
-Missverständliche,Missverständliche,PER,0.0,0.0,de,1
-Behördenchef,Behördenchef,PER,-0.7,0.0,de,1
-Stromausfällen,Stromausfällen,PER,-0.7,0.0,de,1
-Nac...,Nac...,PER,0.0,0.0,de,1
-Treten,Treten,PER,0.5,0.5,de,1
-Speicherbetreiber:,Speicherbetreiber:,PER,0.0,0.0,de,1
-CSU-Chef Söder,CSU-Chef Söder,PER,-1.0,0.0,de,1
+Verivox,Verivox,PER,0.0,1.0,de,1
+Todesopfer,Todesopfer,PER,0.0,0.0,de,1
 Markus Söder,Markus Söder,PER,0.0,0.0,de,1
-Holz.,Holz.,PER,0.35,0.5,de,1
 Pnek lletleu klplullpek,Pnek lletleu klplullpek,PER,0.0,0.0,de,1
-Blveekeu veaeu,Blveekeu veaeu,PER,0.0,0.0,de,1
+Kräftig,Kräftig,PER,0.0,0.0,de,1
+Holz.,Holz.,PER,0.35,0.5,de,1
+Luis von Randow,Luis von Randow,PER,0.0,0.0,de,1
+Foto: Mohamed Abd El Ghany/,Foto: Mohamed Abd El Ghany/,PER,0.0,0.0,de,1
+Wladimir Putin,Wladimir Putin,PER,0.0,0.0,de,1
+"Mario Mehren, der Chef von Deutschlands","Mario Mehren, der Chef von Deutschlands",PER,0.0,0.0,de,1
+Langfristprogosen,Langfristprogosen,PER,0.0,0.0,de,1
+CSU-Chef Söder,CSU-Chef Söder,PER,-1.0,0.0,de,1
 Puallttphllea,Puallttphllea,PER,0.0,0.0,de,1
+Speicherbetreiber:,Speicherbetreiber:,PER,0.0,0.0,de,1
+Treten,Treten,PER,0.5,0.5,de,1
+Nac...,Nac...,PER,0.0,0.0,de,1
+Energiesenator Kerstan,Energiesenator Kerstan,PER,0.7,0.0,de,1
+Bundeswirtschaftsminister,Bundeswirtschaftsminister,PER,0.0,0.0,de,1
+Katastrophenschützer,Katastrophenschützer,PER,0.0,0.0,de,1
+"Ralph Tiesler,","Ralph Tiesler,",PER,-0.7,0.0,de,1
+Stromausfällen,Stromausfällen,PER,-0.7,0.0,de,1
+Blveekeu veaeu,Blveekeu veaeu,PER,0.0,0.0,de,1
 Ptp Bnppteup Bupe Beplnel,Ptp Bnppteup Bupe Beplnel,PER,0.0,0.0,de,1
-BILDplus,BILDplus,PER,0.0,0.0,de,1
-Björn Alexander,Björn Alexander,PER,1.0,0.0,de,1
-Rosenkohl,Rosenkohl,PER,0.0,0.0,de,1
-warn…,warn…,PER,0.0,0.0,de,1
-Freier,Freier,PER,0.7,0.0,de,1
-La Niña,La Niña,PER,0.0,0.0,de,1
-Bep Fenp lklel,Bep Fenp lklel,PER,0.0,0.0,de,1
+Winterthurer Bäumen,Winterthurer Bäumen,PER,0.0,0.0,de,1
+Markus Reisner,Markus Reisner,PER,0.0,0.0,de,1
+"Julian Probst,","Julian Probst,",PER,0.7,0.0,de,1
+Coronapandemie,Coronapandemie,PER,0.0,1.0,de,1
+Milliarden-Summen,Milliarden-Summen,PER,0.0,0.0,de,1
+Derweil,Derweil,PER,0.0,0.0,de,1
+Nikolas Popper,Nikolas Popper,PER,1.0,0.0,de,1
 Kollaps-Risiko.,Kollaps-Risiko.,PER,0.0,0.0,de,1
+ellelekeu Blelpplauete,ellelekeu Blelpplauete,PER,-1.0,0.0,de,1
+Nicole Schmidhofer,Nicole Schmidhofer,PER,0.0,0.0,de,1
+Reisner,Reisner,PER,-1.0,0.0,de,1
+aktuellDie,aktuellDie,PER,0.0,0.0,de,1
+Worbis,Worbis,PER,0.0,0.0,de,1
+Katja,Katja,PER,0.0,0.0,de,1
+Pardo,Pardo,PER,0.0,0.0,de,1
+Tages: Sind,Tages: Sind,PER,0.0,0.0,de,1
+warn…,warn…,PER,0.0,0.0,de,1
+Rosenkohl,Rosenkohl,PER,0.0,0.0,de,1
+Björn Alexander,Björn Alexander,PER,1.0,0.0,de,1
+Beratungsanfragen,Beratungsanfragen,PER,0.0,1.0,de,1
+La Niña,La Niña,PER,0.0,0.0,de,1
+Fatih Birol.,Fatih Birol.,PER,0.0,0.0,de,1
+nan Lange,nan Lange,PER,0.0,0.0,de,1
 Ppel,Ppel,PER,0.0,0.0,de,1
-Uwe Mantel,Uwe Mantel,PER,0.0,0.0,de,1
-Christian Fekete.,Christian Fekete.,PER,0.5,0.5,de,1
-Zusatzabgabe,Zusatzabgabe,PER,0.0,0.0,de,1
-Olaf Scholz:,Olaf Scholz:,PER,0.3333333333333333,0.0,de,1
-Olaf Scholz: Bundeskanzler,Olaf Scholz: Bundeskanzler,PER,-0.7,0.0,de,1
-Linken-Fraktionschef,Linken-Fraktionschef,PER,0.0,0.0,de,1
-Schäubles,Schäubles,PER,0.0,0.0,de,1
 Unkonventionelles Fracking:,Unkonventionelles Fracking:,PER,0.0,1.0,de,1
-Ina Held.</em,Ina Held.</em,PER,0.2333333333333333,0.0,de,1
-Eva Macht,Eva Macht,PER,0.2333333333333333,0.0,de,1
-Stephan Lenhardt.</em,Stephan Lenhardt.</em,PER,0.7,0.0,de,1
-Stark-Watzinger,Stark-Watzinger,PER,0.35,0.5,de-DE,1
-Kretschmann,Kretschmann,PER,0.0,0.0,de,1
-Agnès Pannier-Runacher,Agnès Pannier-Runacher,PER,1.0,0.0,de,1
-Hause,Hause,PER,0.0,0.0,de,1
-Netzagentur-Chef Müller,Netzagentur-Chef Müller,PER,0.0,0.0,de,1
-Netzagentur-Chef,Netzagentur-Chef,PER,0.0,0.0,de,1
-Katharina Heinke,Katharina Heinke,PER,-0.7,0.0,de,1
-Bloomberg-Quellen,Bloomberg-Quellen,PER,0.0,0.0,de,1
-Energiekrise: Klopapier,Energiekrise: Klopapier,PER,0.0,0.0,de,1
-Sauna-Betreiber,Sauna-Betreiber,PER,-1.0,0.0,de,1
-Jörg Quoos,Jörg Quoos,PER,-0.7,0.0,de-DE,1
-Warmwasser,Warmwasser,PER,0.0,0.0,de,1
-Scholz,Scholz,PER,0.0,0.0,de,1
-Olaf Scholz,Olaf Scholz,PER,0.0,0.0,de,1
+Türabdichtungen,Türabdichtungen,PER,-1.0,0.0,de,1
+"Veronika Grimm,","Veronika Grimm,",PER,0.0,0.0,de,1
+Siegfried Russwurm,Siegfried Russwurm,PER,0.0,0.0,de,1
+Shopping-Deal,Shopping-Deal,PER,1.0,0.0,de,1
+Schäubles,Schäubles,PER,0.0,0.0,de,1
+Linken-Fraktionschef,Linken-Fraktionschef,PER,0.0,0.0,de,1
+Christian Feuerherd.,Christian Feuerherd.,PER,1.0,0.0,de,1
+Olaf Scholz: Bundeskanzler,Olaf Scholz: Bundeskanzler,PER,-0.7,0.0,de,1
+Olaf Scholz:,Olaf Scholz:,PER,0.3333333333333333,0.0,de,1
+Marie-Antoinette.,Marie-Antoinette.,PER,0.0,0.0,de,1
+Susanna Zapreva,Susanna Zapreva,PER,0.7,0.0,de,1
+"Marcel Suter,","Marcel Suter,",PER,0.0,0.0,de,1
 Gasspeicher-Ziel,Gasspeicher-Ziel,PER,0.0,0.0,de,1
-Gaspreisbremse,Gaspreisbremse,PER,0.0,0.0,de,1
-Uwe Mantel),Uwe Mantel),PER,0.0,0.0,de,1
+Werner Beyer,Werner Beyer,PER,0.0,0.0,de,1
+Gasanbieter,Gasanbieter,PER,-0.7,0.0,de,1
+Smart-Home-Geräten,Smart-Home-Geräten,PER,0.0,0.0,de,1
+Richard Huber,Richard Huber,PER,0.7,0.0,de,1
+"Jean-Luc Mélenchon,","Jean-Luc Mélenchon,",PER,0.0,0.0,de,1
+Salam Aldeen,Salam Aldeen,PER,0.0,0.0,de,1
+"Detlev Landmesser, tage…","Detlev Landmesser, tage…",PER,0.0,0.0,de,1
+Detlev Landmesser.</em,Detlev Landmesser.</em,PER,0.0,0.0,de,1
+Netzagentur-Chef,Netzagentur-Chef,PER,0.0,0.0,de,1
+Stefan Schleicher.,Stefan Schleicher.,PER,0.0,0.0,de,1
+Warmwasser,Warmwasser,PER,0.0,0.0,de,1
+Jörg Quoos,Jörg Quoos,PER,-0.7,0.0,de-DE,1
+Rhein-Niedrigwasser,Rhein-Niedrigwasser,PER,-0.5,0.5,de,1
+Sauna-Betreiber,Sauna-Betreiber,PER,-1.0,0.0,de,1
+Energiekrise: Klopapier,Energiekrise: Klopapier,PER,0.0,0.0,de,1
+Bloomberg-Quellen,Bloomberg-Quellen,PER,0.0,0.0,de,1
+Katharina Heinke,Katharina Heinke,PER,-0.7,0.0,de,1
+Kretschmann,Kretschmann,PER,0.0,0.0,de,1
+Blackouts,Blackouts,PER,0.0,0.0,de,1
+Zusatzabgabe,Zusatzabgabe,PER,0.0,0.0,de,1
+Stark-Watzinger,Stark-Watzinger,PER,0.35,0.5,de-DE,1
+Belleukenpeu pel,Belleukenpeu pel,PER,0.0,0.0,de,1
+PeoleOpel pnlek,PeoleOpel pnlek,PER,0.0,0.0,de,1
+Pelelekeu pe…,Pelelekeu pe…,PER,0.0,0.0,de,1
+Stephan Lenhardt.</em,Stephan Lenhardt.</em,PER,0.7,0.0,de,1
+Eva Macht,Eva Macht,PER,0.2333333333333333,0.0,de,1
+Ina Held.</em,Ina Held.</em,PER,0.2333333333333333,0.0,de,1
+Gita Gopinath,Gita Gopinath,PER,-0.7,0.0,de,1
+Gita Gopinath.,Gita Gopinath.,PER,-0.85,0.0,de,1
+Ausgabendisziplin.,Ausgabendisziplin.,PER,0.0,0.0,de,1
 Klaas,Klaas,PER,0.0,0.0,de,1
-Klaas Heufer-Umlauf,Klaas Heufer-Umlauf,PER,0.0,0.0,de,1
-Putin,Putin,PER,-0.85,0.0,de,1
-Personalausfälle,Personalausfälle,PER,0.0,1.0,de,1
-Steigende,Steigende,PER,0.0,0.0,de,1
+"Anja Sommerfeld,","Anja Sommerfeld,",PER,0.0,0.0,de,1
+Hokchi,Hokchi,PER,0.0,0.0,de,1
 Wintershall Dea:,Wintershall Dea:,PER,-1.0,0.0,de,1
-Gaskrise,Gaskrise,PER,0.0,0.0,de,1
-Münch…,Münch…,PER,0.0,0.0,de,1
-Münch,Münch,PER,0.0,0.0,de,1
-nan,nan,PER,0.425,0.0,de,1
-Gestern,Gestern,PER,0.6999999999999998,0.0,de,1
-Lindner,Lindner,PER,0.0,0.0,de,1
-Maischberger,Maischberger,PER,0.0,0.0,de,1
-Drohender,Drohender,PER,0.0,0.0,de,1
-Michael Vassiliadis,Michael Vassiliadis,PER,0.0,0.0,de,1
-Krisen-Demos,Krisen-Demos,PER,0.0,0.0,de,1
+Steigende,Steigende,PER,0.0,0.0,de,1
+Personalausfälle,Personalausfälle,PER,0.0,1.0,de,1
+Wohnwirtschaft,Wohnwirtschaft,PER,0.0,0.0,de,1
+Uwe Mantel,Uwe Mantel,PER,0.0,0.0,de,1
+Klaas Heufer-Umlauf,Klaas Heufer-Umlauf,PER,0.0,0.0,de,1
+Uwe Mantel),Uwe Mantel),PER,0.0,0.0,de,1
+Robert Habeck,Robert Habeck,PER,0.0,0.0,de,1
+Agnès Pannier-Runacher,Agnès Pannier-Runacher,PER,1.0,0.0,de,1
+Christian Fekete.,Christian Fekete.,PER,0.5,0.5,de,1
+Winterurlaub,Winterurlaub,PER,0.0,0.0,de,1
+Liftbetreiber,Liftbetreiber,PER,0.0,0.0,de,1
+Leopoldina-Vizepräsident Ro…,Leopoldina-Vizepräsident Ro…,PER,0.5,0.0,de,1
+Karin Prien,Karin Prien,PER,0.0,1.0,de,1
+Aufwand u…,Aufwand u…,PER,0.0,0.0,de,1
+Bep Fenp lklel,Bep Fenp lklel,PER,0.0,0.0,de,1
+Klimaaktivisten,Klimaaktivisten,PER,-0.7,0.0,de,1
+Bernhard Junge-Hülsing.,Bernhard Junge-Hülsing.,PER,0.0,0.0,de,1
 "Bernard Schmid
 Heißer Herbst","Bernard Schmid
 Heißer Herbst",PER,0.7,0.0,de,1
-"Jean-Luc Mélenchon,","Jean-Luc Mélenchon,",PER,0.0,0.0,de,1
+Maischberger,Maischberger,PER,0.0,0.0,de,1
+Krisen-Demos,Krisen-Demos,PER,0.0,0.0,de,1
+Habecks,Habecks,PER,0.0,0.0,de,1
+Steffi Lemke,Steffi Lemke,PER,0.0,0.0,de,1
+John Pettigre…,John Pettigre…,PER,-0.7,0.0,de,1
+Vll plup,Vll plup,PER,0.0,0.0,de,1
+Drohender,Drohender,PER,0.0,0.0,de,1
+Gasmangellage,Gasmangellage,PER,0.0,0.0,de,1
+Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1
+Gestern,Gestern,PER,0.6999999999999998,0.0,de,1
+Bernhard Junge-Hülsing,Bernhard Junge-Hülsing,PER,1.0,0.0,de,1
+nan,nan,PER,0.425,0.0,de,1
+"Johan Eliasch,","Johan Eliasch,",PER,-1.0,0.0,de,1
+Mikaela Shiffrin,Mikaela Shiffrin,PER,0.0,0.0,de,1
+Marco Odermatt.,Marco Odermatt.,PER,0.0,0.0,de,1
+Münch,Münch,PER,0.0,0.0,de,1
+Münch…,Münch…,PER,0.0,0.0,de,1
+Wiesn,Wiesn,PER,0.0,0.0,de,1
+Starnbergs Pandemie-Koordinator,Starnbergs Pandemie-Koordinator,PER,1.0,0.0,de,1
 Ressortchefin Leonore Gewessler,Ressortchefin Leonore Gewessler,PER,0.0,0.0,de,1

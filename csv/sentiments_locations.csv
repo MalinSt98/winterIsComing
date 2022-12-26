@@ -1,329 +1,421 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutschland,Deutschland,LOC,0.09444444444444444,0.10380116959064328,de,114
-Europa,Europa,LOC,-0.07373737373737371,0.23737373737373738,de,33
-Ukraine,Ukraine,LOC,-0.11634615384615382,0.0,de,26
-Berlin,Berlin,LOC,0.05434782608695652,0.0,de,23
-Deutschlands,Deutschlands,LOC,-0.02301587301587302,0.18253968253968256,de,21
-Russland,Russland,LOC,0.027777777777777776,0.19444444444444445,de,18
+Deutschland,Deutschland,LOC,0.10512820512820509,0.08624708624708625,de,143
+Ukraine,Ukraine,LOC,0.010795454545454573,0.022727272727272728,de,44
+Europa,Europa,LOC,-0.010833333333333334,0.19583333333333333,de,40
+Berlin,Berlin,LOC,0.12878787878787878,0.030303030303030304,de,33
+Deutschlands,Deutschlands,LOC,0.18489583333333334,0.18229166666666666,de,32
+Russland,Russland,LOC,-0.058695652173913045,0.15217391304347827,de,23
+Europas,Europas,LOC,0.05833333333333333,0.027777777777777776,de,12
 Frankreich,Frankreich,LOC,-0.19666666666666668,0.11666666666666665,de,10
-Düsseldorf,Düsseldorf,LOC,0.14285714285714285,0.0,de,7
-Österreich,Österreich,LOC,0.18571428571428572,0.0,de,7
-Europas,Europas,LOC,0.09999999999999999,0.047619047619047616,de,7
-Winter.,Winter.,LOC,0.08571428571428573,0.14285714285714285,de,7
+Düsseldorf,Düsseldorf,LOC,0.1,0.0,de,10
+Thüringen,Thüringen,LOC,0.0,0.0,de,8
+Winter.,Winter.,LOC,0.07500000000000001,0.125,de,8
+Paris,Paris,LOC,0.6375,0.0,de,8
+Österreich,Österreich,LOC,0.1625,0.0,de,8
+Russlands,Russlands,LOC,-0.14285714285714285,0.0,de,7
+Staaten,Staaten,LOC,0.17142857142857143,0.07142857142857142,de,7
+Stromausfällen,Stromausfällen,LOC,-0.26904761904761904,0.0,de,7
+Alpen,Alpen,LOC,-0.42857142857142855,0.0,de,7
+München,München,LOC,0.0,0.0,de,6
+Stadt,Stadt,LOC,0.16666666666666666,0.0,de,6
 Winterthur,Winterthur,LOC,0.0,0.16666666666666666,de,6
-Thüringen,Thüringen,LOC,0.0,0.0,de,6
-Alpen,Alpen,LOC,-0.5,0.0,de,6
-Paris,Paris,LOC,0.6199999999999999,0.0,de,5
+Schweiz,Schweiz,LOC,-0.1875,0.0,de,6
 Bund,Bund,LOC,-0.41999999999999993,0.0,de,5
-Russlands,Russlands,LOC,0.0,0.0,de,5
-Staaten,Staaten,LOC,-0.16,0.1,de,5
-Stromausfällen,Stromausfällen,LOC,-0.37666666666666665,0.0,de,5
-Stadt,Stadt,LOC,0.2,0.0,de,5
-Schweiz,Schweiz,LOC,-0.025000000000000022,0.0,de,5
+Deutschland.,Deutschland.,LOC,0.4,0.0,de,5
+Landkreis Ebersberg,Landkreis Ebersberg,LOC,0.0,0.4,de,5
+Österreichs,Österreichs,LOC,0.2,0.2,de,5
+Thüringens,Thüringens,LOC,0.35,0.0,de,4
+Tierheim Berlin,Tierheim Berlin,LOC,-0.11250000000000003,0.25,de,4
+Braunkohlekraftwerk Jänschwalde,Braunkohlekraftwerk Jänschwalde,LOC,0.0,0.0,de,4
+Italien,Italien,LOC,0.425,0.0,de,4
 Hamburg,Hamburg,LOC,0.35,0.0,de,4
-USA,USA,LOC,0.2333333333333333,0.0,de,3
+den USA,den USA,LOC,0.0,0.0,de,4
+Sachsen,Sachsen,LOC,0.0,0.0,de,4
+China,China,LOC,0.0,0.0,de,4
+Halle,Halle,LOC,-0.175,0.25,de,4
+USA,USA,LOC,0.175,0.0,de,4
+Kiew,Kiew,LOC,-0.25,0.0,de,4
+Bayern,Bayern,LOC,-0.25,0.0,de,4
+Potsdam,Potsdam,LOC,0.0,1.0,de,4
+Gladbach,Gladbach,LOC,0.0,0.0,de,3
+Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.4666666666666666,0.0,de,3
+Kalte,Kalte,LOC,-0.2333333333333333,0.0,de,3
+Harz,Harz,LOC,0.0,0.0,de,3
+Polen,Polen,LOC,0.4666666666666666,0.0,de,3
 CERN,CERN,LOC,0.16666666666666666,0.5,de,3
-der Schweiz,der Schweiz,LOC,-0.16666666666666666,0.16666666666666666,de,3
-Enercity,Enercity,LOC,0.0,1.0,de,3
-Potsdam,Potsdam,LOC,0.0,1.0,de,3
-Freiburg,Freiburg,LOC,-1.0,0.0,de,3
-Kreml,Kreml,LOC,-0.2333333333333333,0.0,de,3
-Energiespardebatten,Energiespardebatten,LOC,-0.10000000000000002,0.0,de,3
-Aldi,Aldi,LOC,0.2333333333333333,0.3333333333333333,de,3
-Spanien,Spanien,LOC,0.2333333333333333,0.0,de,3
-Österreichs,Österreichs,LOC,0.3333333333333333,0.0,de,3
+Gaspreisentwicklung,Gaspreisentwicklung,LOC,0.0,0.0,de,3
 Klimaökonom Edenhofer,Klimaökonom Edenhofer,LOC,0.0,0.0,de,3
-Landkreis Ebersberg,Landkreis Ebersberg,LOC,0.0,0.6666666666666666,de,3
+Kreml,Kreml,LOC,-0.2333333333333333,0.0,de,3
 Wilhelmshaven,Wilhelmshaven,LOC,0.0,0.0,de,3
 Arosa,Arosa,LOC,0.0,0.0,de,3
-Halle,Halle,LOC,0.0,0.3333333333333333,de,3
-den USA,den USA,LOC,0.0,0.0,de,3
-Gladbach,Gladbach,LOC,0.0,0.0,de,3
+der Schweiz,der Schweiz,LOC,-0.16666666666666666,0.16666666666666666,de,3
+Lwiw,Lwiw,LOC,-0.3333333333333333,0.0,de,3
 Moldawien,Moldawien,LOC,0.2333333333333333,0.0,de,3
-Deutschland.,Deutschland.,LOC,0.6666666666666666,0.0,de,3
-Bayern,Bayern,LOC,-0.3333333333333333,0.0,de,3
-Italien,Italien,LOC,0.5666666666666667,0.0,de,3
+Sachsens,Sachsens,LOC,0.0,0.0,de,3
+St…,St…,LOC,0.0,0.3333333333333333,de,3
+Br\u00fcssel,Br\u00fcssel,LOC,0.0,0.0,de,3
+Washington,Washington,LOC,0.0,0.0,de,3
 Brandenburger Straße,Brandenburger Straße,LOC,0.0,0.3333333333333333,de,3
-Energieinfrastuktur,Energieinfrastuktur,LOC,0.0,0.0,de,2
-Blackouts,Blackouts,LOC,-0.5166666666666666,0.0,de,2
-Gases,Gases,LOC,0.0,0.0,de,2
-Verkehrsministerium,Verkehrsministerium,LOC,0.0,0.0,de,2
-Kiew,Kiew,LOC,-0.5,0.0,de,2
-Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,2
-Sachsens,Sachsens,LOC,0.0,0.0,de,2
-Trockenzeiten,Trockenzeiten,LOC,0.0,0.0,de,2
-EU-Gipfel,EU-Gipfel,LOC,0.0,0.0,de,2
-Ukraine-Kriegs,Ukraine-Kriegs,LOC,0.0,0.0,de,2
+Zürs,Zürs,LOC,0.0,0.0,de,3
+Kasseler,Kasseler,LOC,0.2333333333333333,0.0,de,3
+Aldi,Aldi,LOC,0.2333333333333333,0.3333333333333333,de,3
+Enercity,Enercity,LOC,0.0,1.0,de,3
+Freiburg,Freiburg,LOC,-1.0,0.0,de,3
+Erfurt,Erfurt,LOC,0.0,0.6666666666666666,de,3
+Spanien,Spanien,LOC,0.2333333333333333,0.0,de,3
+Energiespardebatten,Energiespardebatten,LOC,-0.10000000000000002,0.0,de,3
+Japaner,Japaner,LOC,0.0,0.0,de,2
+Dänemark,Dänemark,LOC,0.0,1.0,de,2
+Corona-Lage,Corona-Lage,LOC,0.0,0.0,de,2
+Bußprediger.,Bußprediger.,LOC,0.0,0.0,de,2
+A,A,LOC,0.0,0.0,de,2
 Frankreichs,Frankreichs,LOC,0.0,0.0,de,2
-Sölden,Sölden,LOC,0.0,0.0,de,2
+Skihänge,Skihänge,LOC,0.0,1.0,de,2
+Großbritannien,Großbritannien,LOC,-0.35,0.0,de,2
+Schauer,Schauer,LOC,1.0,0.0,de,2
 Hörnli,Hörnli,LOC,-0.35,0.0,de,2
+Ski-Saison,Ski-Saison,LOC,0.0,0.0,de,2
 städtischen  Schwimmhallen,städtischen  Schwimmhallen,LOC,0.0,0.0,de,2
-Braunkohlekraftwerk Jänschwalde,Braunkohlekraftwerk Jänschwalde,LOC,0.0,0.0,de,2
+Wintersport-Touristen,Wintersport-Touristen,LOC,0.0,0.0,de,2
+Oberbayern,Oberbayern,LOC,0.0,0.0,de,2
+Garmisch,Garmisch,LOC,0.0,0.0,de,2
+Aurora Basecamp,Aurora Basecamp,LOC,0.35,0.0,de,2
+Vierschanzen-Tournee,Vierschanzen-Tournee,LOC,0.0,0.0,de,2
+Kohlekraftwerk Jänschwalde: Alle Blöcke,Kohlekraftwerk Jänschwalde: Alle Blöcke,LOC,0.0,0.0,de,2
 Heringen,Heringen,LOC,0.0,0.0,de,2
+Oberstdorf,Oberstdorf,LOC,0.0,0.0,de,2
 Hessen,Hessen,LOC,0.0,0.0,de,2
 Werra,Werra,LOC,0.0,0.0,de,2
-Brandenburg,Brandenburg,LOC,-0.85,0.0,de,2
-Finanzminister,Finanzminister,LOC,-0.425,0.0,de,2
-Alpenhauptkammes,Alpenhauptkammes,LOC,-0.7,0.0,de,2
-Schlossgemächern,Schlossgemächern,LOC,0.0,0.0,de,2
-Dürreperioden,Dürreperioden,LOC,0.0,0.0,de,2
-Teuer-Winter,Teuer-Winter,LOC,0.0,0.0,de,2
-München,München,LOC,0.0,0.0,de,2
-Urlaub,Urlaub,LOC,0.35,0.0,de,2
-Schauer,Schauer,LOC,1.0,0.0,de,2
-Offenbach.,Offenbach.,LOC,0.0,0.0,de,2
-Nordsee,Nordsee,LOC,0.0,0.0,de,2
-Paris.,Paris.,LOC,0.0,0.0,de,2
-Thüringens,Thüringens,LOC,0.0,0.0,de,2
-Japaner,Japaner,LOC,0.0,0.0,de,2
-Bund-Länder-Gipfel,Bund-Länder-Gipfel,LOC,0.7,0.0,de,2
-Dresden,Dresden,LOC,0.0,0.0,de,2
-Vielerorts,Vielerorts,LOC,0.7,0.0,de,2
-Balkanroute,Balkanroute,LOC,-0.5,0.0,de,2
-Aurora Basecamp,Aurora Basecamp,LOC,0.35,0.0,de,2
-Deutschland!,Deutschland!,LOC,0.0,0.0,de,2
-Arbeitsplatz,Arbeitsplatz,LOC,-1.0,0.0,de,2
-A,A,LOC,0.0,0.0,de,2
-Corona-Lage,Corona-Lage,LOC,0.0,0.0,de,2
-Corona-Maßnahmen,Corona-Maßnahmen,LOC,0.0,0.0,de,2
-Sommerquartal,Sommerquartal,LOC,-0.35,0.0,de,2
-Wintershall Dea,Wintershall Dea,LOC,0.0,0.0,de,2
 Feldberg im Südschwarzwald,Feldberg im Südschwarzwald,LOC,0.7,0.0,de,2
-MÃ¼nchner,MÃ¼nchner,LOC,0.0,0.0,de,2
-St…,St…,LOC,0.0,0.5,de,2
+Energieinfrastuktur,Energieinfrastuktur,LOC,0.0,0.0,de,2
 Simmering,Simmering,LOC,0.0,0.0,de,2
-Kasseler,Kasseler,LOC,0.35,0.0,de,2
-Zürich:,Zürich:,LOC,0.0,0.0,de,2
-Mexiko,Mexiko,LOC,0.0,0.0,de,2
-Bremen,Bremen,LOC,0.0,0.0,de,2
-Brauneck-Bergbahn,Brauneck-Bergbahn,LOC,0.0,1.0,de,2
-Baden-Württembergs,Baden-Württembergs,LOC,1.0,0.0,de,2
-Bobrennen,Bobrennen,LOC,0.0,0.0,de,2
-Niederlande,Niederlande,LOC,0.0,0.0,de,2
-Oberstdorf,Oberstdorf,LOC,0.0,0.0,de,2
-Vierschanzen-Tournee,Vierschanzen-Tournee,LOC,0.0,0.0,de,2
-Garmisch,Garmisch,LOC,0.0,0.0,de,2
-Brüssel,Brüssel,LOC,-0.07500000000000001,0.0,de,2
-Dänemark,Dänemark,LOC,0.0,1.0,de,2
-Großbritannien,Großbritannien,LOC,-0.35,0.0,de,2
-Hoch Timeo,Hoch Timeo,LOC,0.7,0.0,de,2
-Medizinischen Katastrophen-Hilfswerks,Medizinischen Katastrophen-Hilfswerks,LOC,0.0,0.0,de,2
-Weihnachts-Evangelium,Weihnachts-Evangelium,LOC,0.0,0.0,de,2
-Ölradiator,Ölradiator,LOC,-0.7,0.0,de,2
-Freistaat,Freistaat,LOC,-0.7,0.0,de,2
-Winterberg.,Winterberg.,LOC,0.0,0.0,de,2
-China,China,LOC,0.0,0.0,de,2
-Wien,Wien,LOC,0.0,0.0,de,2
-Schneefallgebiet,Schneefallgebiet,LOC,0.0,0.0,de,1
-Kriegsgeschäfte,Kriegsgeschäfte,LOC,0.0,0.0,de,1
-…,…,LOC,0.0,0.0,de,1
-Südens,Südens,LOC,0.0,0.0,de,1
-Kenia,Kenia,LOC,-0.7,0.0,de,1
-Pelletspreisen,Pelletspreisen,LOC,0.0,0.0,de,1
-LNG-Lieferungen.,LNG-Lieferungen.,LOC,0.0,0.0,de,1
-Tonnenpreis,Tonnenpreis,LOC,0.0,0.0,de,1
-7.10..,7.10..,LOC,0.0,0.0,de,1
-Winter?,Winter?,LOC,0.0,1.0,de,1
-Lecks,Lecks,LOC,0.0,0.0,de,1
-Kommt,Kommt,LOC,0.0,0.0,de,1
-Schnee,Schnee,LOC,0.0,0.0,de,1
-Kopenhagen.,Kopenhagen.,LOC,0.0,0.0,de,1
-200 Winterthurer,200 Winterthurer,LOC,0.0,0.0,de,1
-Rosengarten,Rosengarten,LOC,0.0,0.0,de,1
-Frankreich?,Frankreich?,LOC,0.7,0.0,de,1
-Dortmund,Dortmund,LOC,0.0,0.0,de,1
-Nicht-Nationalspieler,Nicht-Nationalspieler,LOC,0.0,0.0,de,1
-Waldviertel.,Waldviertel.,LOC,1.0,0.0,de,1
-Ebersberg,Ebersberg,LOC,0.0,0.0,de,1
-Lörrach: Skifahren am Feldberg,Lörrach: Skifahren am Feldberg,LOC,0.0,0.0,de,1
-Haus  warm,Haus  warm,LOC,0.0,0.0,de-DE,1
-Süddeutschland.,Süddeutschland.,LOC,0.0,0.0,de,1
-Wetter:,Wetter:,LOC,0.0,0.0,de,1
-Winter-Vorboten,Winter-Vorboten,LOC,0.0,0.0,de,1
-Kärntner Tourismus,Kärntner Tourismus,LOC,0.0,1.0,de,1
-Bundesamt,Bundesamt,LOC,0.0,0.0,de,1
-Fieser Kälteeinbruch: Kommt,Fieser Kälteeinbruch: Kommt,LOC,-1.0,0.0,de,1
-Branchenverband,Branchenverband,LOC,-0.7,0.0,de,1
-Umweltbundesamt,Umweltbundesamt,LOC,0.0,0.0,de,1
-Stromlücke,Stromlücke,LOC,-0.5,0.5,de,1
-Sparkampagne,Sparkampagne,LOC,0.0,0.0,de,1
-Amt,Amt,LOC,0.0,0.0,de,1
-Köpenick,Köpenick,LOC,-1.0,0.0,de,1
-ZH,ZH,LOC,0.0,0.0,de,1
-Entschlossen,Entschlossen,LOC,-1.0,0.0,de,1
-Moskau,Moskau,LOC,-1.0,0.0,de,1
-Münster,Münster,LOC,0.0,0.0,de,1
-Gasspeicher-Front,Gasspeicher-Front,LOC,0.0,0.0,de,1
-La Rioja,La Rioja,LOC,0.7,0.0,de,1
-Geizen,Geizen,LOC,0.0,0.0,de,1
-Feldberg: Der Winter,Feldberg: Der Winter,LOC,0.0,0.0,de,1
-Feldberg.,Feldberg.,LOC,0.0,0.0,de,1
-Iange,Iange,LOC,-0.5,0.5,de,1
-Ostukraine,Ostukraine,LOC,0.0,0.0,de,1
-Slowjansk,Slowjansk,LOC,0.0,0.0,de,1
-Gas-Speicherstand,Gas-Speicherstand,LOC,-1.0,0.0,de,1
-Todtnau,Todtnau,LOC,0.7,0.0,de,1
-Covid-Dashboard,Covid-Dashboard,LOC,1.0,0.0,de,1
-züngelt,züngelt,LOC,-0.7,0.0,de,1
-Rhein,Rhein,LOC,0.0,1.0,de,1
-Br\u00fcssel,Br\u00fcssel,LOC,0.0,0.0,de,1
-NRW),NRW),LOC,0.0,0.0,de,1
-Wellness-Einrichtungen,Wellness-Einrichtungen,LOC,0.0,0.0,de,1
-Energieversorgers Süwag,Energieversorgers Süwag,LOC,0.0,0.0,de,1
-Flutkatastrophe im…,Flutkatastrophe im…,LOC,0.0,0.0,de,1
-London,London,LOC,0.0,0.0,de,1
-Transnistrien,Transnistrien,LOC,0.0,0.0,de,1
-Washington,Washington,LOC,0.0,0.0,de,1
-Europa-Park,Europa-Park,LOC,0.0,0.0,de,1
-Produktions-Drosselungen,Produktions-Drosselungen,LOC,0.0,1.0,de,1
-Kaminöfen,Kaminöfen,LOC,0.7,0.0,de,1
-Herner,Herner,LOC,0.0,0.0,de,1
-Auswärtigen Amtin,Auswärtigen Amtin,LOC,0.0,0.0,de,1
-Gaspreisentwicklung,Gaspreisentwicklung,LOC,0.0,0.0,de,1
-Taunus,Taunus,LOC,0.0,0.0,de,1
-Gaskrise: Taunusstein,Gaskrise: Taunusstein,LOC,0.0,0.0,de,1
-Lang,Lang,LOC,0.0,0.0,de,1
-Großer Kosten-Hammer,Großer Kosten-Hammer,LOC,-0.15000000000000002,0.0,de,1
-Teuer-Winter.,Teuer-Winter.,LOC,-0.15000000000000002,0.0,de,1
-Deutschlehrer-Info | DW | 21.07.2022.,Deutschlehrer-Info | DW | 21.07.2022.,LOC,0.0,0.0,de,1
-Kontinents,Kontinents,LOC,0.0,0.0,de,1
-knackst,knackst,LOC,-0.7,0.0,de,1
-Herne,Herne,LOC,0.0,0.0,de,1
-Kassel,Kassel,LOC,0.0,1.0,de,1
-Vorarlberg,Vorarlberg,LOC,1.0,0.0,de,1
-Matterhorn,Matterhorn,LOC,-0.7,0.0,de,1
-Preisdeckeln,Preisdeckeln,LOC,0.7,0.0,de,1
-Wertstoffzentrum,Wertstoffzentrum,LOC,0.0,0.0,de,1
-Wiener Netzte,Wiener Netzte,LOC,0.0,0.0,de,1
-6leupeu,6leupeu,LOC,0.0,0.0,de,1
-Bep BlupteO:,Bep BlupteO:,LOC,-1.0,0.0,de,1
-Corona-Inzidenz,Corona-Inzidenz,LOC,0.0,0.0,de,1
-Otto-Konzern,Otto-Konzern,LOC,0.0,0.0,de,1
-Polarwirbel.,Polarwirbel.,LOC,0.0,0.0,de,1
-Val d’Isere komplexe Verletzungen,Val d’Isere komplexe Verletzungen,LOC,-0.7,0.0,de,1
-Abfahrtsdoppel,Abfahrtsdoppel,LOC,-0.7,0.0,de,1
-Kärntner,Kärntner,LOC,1.0,0.0,de,1
-Freibadsaison,Freibadsaison,LOC,0.0,0.0,de,1
-Audioinhalten,Audioinhalten,LOC,0.7,0.0,de,1
+EU-Gipfel,EU-Gipfel,LOC,0.0,0.0,de,2
+Corona-Maßnahmen,Corona-Maßnahmen,LOC,0.0,0.0,de,2
+MÃ¼nchner,MÃ¼nchner,LOC,0.0,0.0,de,2
+Audioinhalten,Audioinhalten,LOC,0.7,0.0,de,2
 "Podcasts
 ","Podcasts
-",LOC,0.7,0.0,de,1
-Worbis,Worbis,LOC,0.0,0.0,de,1
-Unsplash,Unsplash,LOC,0.0,0.0,de,1
-Zürich: Dutzende von Velofahrern,Zürich: Dutzende von Velofahrern,LOC,0.0,0.0,de,1
-Donnerstagmorgen,Donnerstagmorgen,LOC,0.0,0.0,de,1
-Hauptbahnhof,Hauptbahnhof,LOC,0.0,0.0,de,1
-Niederösterreich,Niederösterreich,LOC,1.0,0.0,de,1
-Wetter: Deutscher Wetterdienst,Wetter: Deutscher Wetterdienst,LOC,1.0,0.0,de,1
-Extra-Duschtarif,Extra-Duschtarif,LOC,0.0,0.0,de,1
+",LOC,0.7,0.0,de,2
+Arbeitsplatz,Arbeitsplatz,LOC,-1.0,0.0,de,2
+Wintershall Dea,Wintershall Dea,LOC,0.0,0.0,de,2
+Sommerquartal,Sommerquartal,LOC,-0.35,0.0,de,2
+Moskau,Moskau,LOC,-0.15000000000000002,0.0,de,2
+Frankfurt.,Frankfurt.,LOC,0.0,0.0,de,2
+Bundesweit,Bundesweit,LOC,0.7,0.0,de,2
+Teuer-Winter,Teuer-Winter,LOC,0.0,0.0,de,2
+Alpenhauptkammes,Alpenhauptkammes,LOC,-0.7,0.0,de,2
+Sölden,Sölden,LOC,0.0,0.0,de,2
+Dürreperioden,Dürreperioden,LOC,0.0,0.0,de,2
+Trockenzeiten,Trockenzeiten,LOC,0.0,0.0,de,2
+Zürich:,Zürich:,LOC,0.0,0.0,de,2
+Verkehrsministerium,Verkehrsministerium,LOC,0.0,0.0,de,2
+Blackouts,Blackouts,LOC,-0.5166666666666666,0.0,de,2
+Gases,Gases,LOC,0.0,0.0,de,2
+Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,2
+Oberfranken,Oberfranken,LOC,0.0,0.0,de,2
+Finanzminister,Finanzminister,LOC,-0.425,0.0,de,2
+Brandenburg,Brandenburg,LOC,-0.85,0.0,de,2
+Freistaat,Freistaat,LOC,-0.7,0.0,de,2
+Kiew.,Kiew.,LOC,0.0,0.0,de,2
+Scholz,Scholz,LOC,0.16666666666666666,0.0,de,2
+Brüssel,Brüssel,LOC,-0.07500000000000001,0.0,de,2
+Sachsen-Anhalt!,Sachsen-Anhalt!,LOC,0.0,0.0,de,2
+Baden-Württembergs,Baden-Württembergs,LOC,1.0,0.0,de,2
+Bukarest,Bukarest,LOC,0.0,0.0,de,2
+Schlossgemächern,Schlossgemächern,LOC,0.0,0.0,de,2
+Ölradiator,Ölradiator,LOC,-0.7,0.0,de,2
+Bundesamt,Bundesamt,LOC,0.0,0.0,de,2
+Gaspreisbremse,Gaspreisbremse,LOC,0.0,0.0,de,2
+Ukraine-Krieges,Ukraine-Krieges,LOC,0.0,0.0,de,2
+Weihnachts-Evangelium,Weihnachts-Evangelium,LOC,0.0,0.0,de,2
+Leipzig,Leipzig,LOC,0.0,0.0,de,2
+Medizinischen Katastrophen-Hilfswerks,Medizinischen Katastrophen-Hilfswerks,LOC,0.0,0.0,de,2
+Hoch Timeo,Hoch Timeo,LOC,0.7,0.0,de,2
+Vielerorts,Vielerorts,LOC,0.7,0.0,de,2
+Bremen,Bremen,LOC,0.0,0.0,de,2
+Ukraine-Kriegs,Ukraine-Kriegs,LOC,0.0,0.0,de,2
+Bund-Länder-Gipfel,Bund-Länder-Gipfel,LOC,0.7,0.0,de,2
+Dresden,Dresden,LOC,0.0,0.0,de,2
+Paris.,Paris.,LOC,0.0,0.0,de,2
+Mexiko,Mexiko,LOC,0.0,0.0,de,2
+Urlaub,Urlaub,LOC,0.35,0.0,de,2
+Wien,Wien,LOC,0.0,0.0,de,2
+Niederlande,Niederlande,LOC,0.0,0.0,de,2
+Brauneck-Bergbahn,Brauneck-Bergbahn,LOC,0.0,1.0,de,2
+Offenbach.,Offenbach.,LOC,0.0,0.0,de,2
+Deutschland!,Deutschland!,LOC,0.0,0.0,de,2
+Bonn,Bonn,LOC,-0.7,0.0,de,2
+Kalifornien,Kalifornien,LOC,-0.35,0.0,de,2
+Balkanroute,Balkanroute,LOC,-0.5,0.0,de,2
+Bobrennen,Bobrennen,LOC,0.0,0.0,de,2
+Landes,Landes,LOC,0.7,0.0,de,2
+Winterberg.,Winterberg.,LOC,0.0,0.0,de,2
+Nordsee,Nordsee,LOC,0.0,0.0,de,2
+Kriegsgeschäfte,Kriegsgeschäfte,LOC,0.0,0.0,de,1
+Winter?,Winter?,LOC,0.0,1.0,de,1
+Südens,Südens,LOC,0.0,0.0,de,1
+Todtnau,Todtnau,LOC,0.7,0.0,de,1
+Slowjansk,Slowjansk,LOC,0.0,0.0,de,1
+Kenia,Kenia,LOC,-0.7,0.0,de,1
+Bep BlupteO:,Bep BlupteO:,LOC,-1.0,0.0,de,1
+Val d’Isere komplexe Verletzungen,Val d’Isere komplexe Verletzungen,LOC,-0.7,0.0,de,1
+Pelletspreisen,Pelletspreisen,LOC,0.0,0.0,de,1
+Ostukraine,Ostukraine,LOC,0.0,0.0,de,1
+Tonnenpreis,Tonnenpreis,LOC,0.0,0.0,de,1
+6leupeu,6leupeu,LOC,0.0,0.0,de,1
 La Niña,La Niña,LOC,0.0,0.0,de,1
-Tokio,Tokio,LOC,0.0,0.0,de,1
-wÃ¤chst,wÃ¤chst,LOC,0.0,0.0,de,1
-Saudiarabien,Saudiarabien,LOC,-1.0,0.0,de,1
-Gasförderkonzern,Gasförderkonzern,LOC,1.0,0.0,de,1
+Abfahrtsdoppel,Abfahrtsdoppel,LOC,-0.7,0.0,de,1
+Polarwirbel.,Polarwirbel.,LOC,0.0,0.0,de,1
+Gas-Speicherstand,Gas-Speicherstand,LOC,-1.0,0.0,de,1
+…,…,LOC,0.0,0.0,de,1
+Kopenhagen.,Kopenhagen.,LOC,0.0,0.0,de,1
+Rosengarten,Rosengarten,LOC,0.0,0.0,de,1
+Nicht-Nationalspieler,Nicht-Nationalspieler,LOC,0.0,0.0,de,1
+Matterhorn,Matterhorn,LOC,-0.7,0.0,de,1
+Winter-Vorboten,Winter-Vorboten,LOC,0.0,0.0,de,1
+Dortmund,Dortmund,LOC,0.0,0.0,de,1
+Süddeutschland.,Süddeutschland.,LOC,0.0,0.0,de,1
+Gasspeicher-Füllstand,Gasspeicher-Füllstand,LOC,-0.5,0.5,de,1
+Straßenbahnen,Straßenbahnen,LOC,0.0,0.0,de,1
+Vorarlberg,Vorarlberg,LOC,1.0,0.0,de,1
+Wetter:,Wetter:,LOC,0.0,0.0,de,1
+Kernkraftwerks Civaux.,Kernkraftwerks Civaux.,LOC,0.0,0.0,de,1
+200 Winterthurer,200 Winterthurer,LOC,0.0,0.0,de,1
+Covid-Dashboard,Covid-Dashboard,LOC,1.0,0.0,de,1
+Preisbarometer: Hohe Gas-Preise: Lohnt,Preisbarometer: Hohe Gas-Preise: Lohnt,LOC,0.0,0.0,de,1
+Kärntner Tourismus,Kärntner Tourismus,LOC,0.0,1.0,de,1
+7.10..,7.10..,LOC,0.0,0.0,de,1
+Wertstoffzentrum,Wertstoffzentrum,LOC,0.0,0.0,de,1
+Wiener Netzte,Wiener Netzte,LOC,0.0,0.0,de,1
+Schnee,Schnee,LOC,0.0,0.0,de,1
+Lörrach: Skifahren am Feldberg,Lörrach: Skifahren am Feldberg,LOC,0.0,0.0,de,1
+Gaskrise: Temperatur,Gaskrise: Temperatur,LOC,0.0,0.0,de,1
+Kärntner,Kärntner,LOC,1.0,0.0,de,1
+Umweltbundesamt,Umweltbundesamt,LOC,0.0,0.0,de,1
+Privacy Center,Privacy Center,LOC,0.0,0.0,de,1
+Bukarest:,Bukarest:,LOC,0.0,0.0,de,1
+Nato-Treffen,Nato-Treffen,LOC,0.0,0.0,de,1
+Rostow,Rostow,LOC,0.0,0.0,de,1
+Landesparteitag: Scholz,Landesparteitag: Scholz,LOC,0.0,0.0,de,1
+Ble PlnlOtluul teale ulekl,Ble PlnlOtluul teale ulekl,LOC,0.0,0.0,de,1
+Benlpekteup,Benlpekteup,LOC,-1.0,0.0,de,1
+Stromnetzbetreibern,Stromnetzbetreibern,LOC,-0.10000000000000002,0.3333333333333333,de,1
+Kälteeinbruch,Kälteeinbruch,LOC,0.0,0.0,de,1
+Brüsseler,Brüsseler,LOC,0.0,0.0,de,1
+Kärnten.,Kärnten.,LOC,0.0,0.0,de,1
+Kärnten,Kärnten,LOC,0.0,0.0,de,1
+Luftraums zu unterstüt…,Luftraums zu unterstüt…,LOC,0.0,0.0,de,1
+Raketeneinschlag,Raketeneinschlag,LOC,0.7,0.0,de,1
+Luftraums,Luftraums,LOC,0.7,0.0,de,1
+Deutsche Wetterdienst,Deutsche Wetterdienst,LOC,1.0,0.0,de,1
+Leipzig/Magdeburg,Leipzig/Magdeburg,LOC,-0.7,0.0,de,1
+Burgenland,Burgenland,LOC,-0.7,0.0,de,1
+Nordkorea,Nordkorea,LOC,0.0,0.0,de,1
+Warmwasser,Warmwasser,LOC,0.7,0.0,de,1
+Energiepreisbremsen,Energiepreisbremsen,LOC,1.0,0.0,de,1
+Bruttostromverbrauchs,Bruttostromverbrauchs,LOC,0.0,0.0,de,1
+Windreicher,Windreicher,LOC,0.35,0.5,de,1
+Deutschland  ,Deutschland  ,LOC,-0.3333333333333333,0.0,de,1
+Solidaritätskonferenz,Solidaritätskonferenz,LOC,0.0,0.0,de,1
+Einsatzfazit,Einsatzfazit,LOC,0.0,0.0,de,1
+Jackery Solargenerator,Jackery Solargenerator,LOC,0.0,0.0,de,1
+Potsdamer,Potsdamer,LOC,0.0,0.0,de,1
+Bayern.,Bayern.,LOC,0.0,1.0,de,1
+Solihull,Solihull,LOC,-1.0,0.0,de,1
+England,England,LOC,-1.0,0.0,de,1
+Silvrettaseilbahn,Silvrettaseilbahn,LOC,0.7,0.0,de,1
+Bayerns,Bayerns,LOC,0.0,1.0,de,1
+Winterliche,Winterliche,LOC,0.0,0.0,de,1
+Köpenick,Köpenick,LOC,-1.0,0.0,de,1
+Ostsee-Gaspipeline,Ostsee-Gaspipeline,LOC,0.0,0.0,de,1
+Neuschnee.,Neuschnee.,LOC,0.0,0.0,de,1
+Nedis,Nedis,LOC,0.0,0.0,de,1
+Transnistrien,Transnistrien,LOC,0.0,0.0,de,1
+Flutkatastrophe im…,Flutkatastrophe im…,LOC,0.0,0.0,de,1
+NRW),NRW),LOC,0.0,0.0,de,1
+Herne,Herne,LOC,0.0,0.0,de,1
+Herner,Herner,LOC,0.0,0.0,de,1
+Extra-Duschtarif,Extra-Duschtarif,LOC,0.0,0.0,de,1
+Institute for the Study of War,Institute for the Study of War,LOC,0.0,0.0,de,1
+Wetter: Deutscher Wetterdienst,Wetter: Deutscher Wetterdienst,LOC,1.0,0.0,de,1
+Hauptbahnhof,Hauptbahnhof,LOC,0.0,0.0,de,1
+Donnerstagmorgen,Donnerstagmorgen,LOC,0.0,0.0,de,1
+Zürich: Dutzende von Velofahrern,Zürich: Dutzende von Velofahrern,LOC,0.0,0.0,de,1
+Unsplash,Unsplash,LOC,0.0,0.0,de,1
+Worbis,Worbis,LOC,0.0,0.0,de,1
+Nord Stream,Nord Stream,LOC,0.0,0.0,de,1
+Sommergefühle,Sommergefühle,LOC,0.0,0.0,de,1
+Europa-Park,Europa-Park,LOC,0.0,0.0,de,1
+Kaminöfen,Kaminöfen,LOC,0.7,0.0,de,1
+Auswärtigen Amtin,Auswärtigen Amtin,LOC,0.0,0.0,de,1
+Gasspeicher-Front,Gasspeicher-Front,LOC,0.0,0.0,de,1
+LNG-Lieferungen.,LNG-Lieferungen.,LOC,0.0,0.0,de,1
+LNG-Importen,LNG-Importen,LOC,0.0,0.0,de,1
+Waldviertel.,Waldviertel.,LOC,1.0,0.0,de,1
+Niederösterreich,Niederösterreich,LOC,1.0,0.0,de,1
+Kassel,Kassel,LOC,0.0,1.0,de,1
+Schneefallgebiet,Schneefallgebiet,LOC,0.0,0.0,de,1
+Bank-Austria-Konjunkturindikator,Bank-Austria-Konjunkturindikator,LOC,-1.0,0.0,de,1
+züngelt,züngelt,LOC,-0.7,0.0,de,1
+knackst,knackst,LOC,-0.7,0.0,de,1
+Teuer-Winter.,Teuer-Winter.,LOC,-0.15000000000000002,0.0,de,1
+Großer Kosten-Hammer,Großer Kosten-Hammer,LOC,-0.15000000000000002,0.0,de,1
+Lang,Lang,LOC,0.0,0.0,de,1
+Feldberg.,Feldberg.,LOC,0.0,0.0,de,1
+Iange,Iange,LOC,-0.5,0.5,de,1
+österreichische Regierung,österreichische Regierung,LOC,0.0,0.0,de,1
+Feldberg: Der Winter,Feldberg: Der Winter,LOC,0.0,0.0,de,1
+kalten Winter?,kalten Winter?,LOC,-0.7,0.0,de,1
+Energiekrise-Winter:,Energiekrise-Winter:,LOC,0.0,0.0,de,1
+Unternehmensquellen,Unternehmensquellen,LOC,0.0,0.0,de,1
+Mittwoch.,Mittwoch.,LOC,0.7,0.0,de,1
+Regionalversorger:,Regionalversorger:,LOC,0.0,1.0,de,1
+Ukraine:,Ukraine:,LOC,0.0,0.0,de,1
+Thermowäsche,Thermowäsche,LOC,0.0,0.0,de,1
+Wollpullis,Wollpullis,LOC,0.0,0.0,de,1
+Niedersachsen,Niedersachsen,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Stadt Winterthur,Stadt Winterthur,LOC,0.0,0.0,de,1
 Türschlitze,Türschlitze,LOC,-0.7,0.0,de,1
-"Sächsischer Minister Günther: ""Es","Sächsischer Minister Günther: ""Es",LOC,-1.0,0.0,de,1
-Kalte,Kalte,LOC,-0.7,0.0,de,1
 Katar,Katar,LOC,0.7,0.0,de,1
 Kirche: Frieren,Kirche: Frieren,LOC,-1.0,0.0,de,1
-Brandenburger Tor,Brandenburger Tor,LOC,0.0,0.0,de,1
 Schwe…,Schwe…,LOC,0.0,0.0,de,1
-Stickstoffproblem,Stickstoffproblem,LOC,0.0,0.0,de,1
 Knappes,Knappes,LOC,0.0,1.0,de,1
-Nationalpark Hainich,Nationalpark Hainich,LOC,0.0,0.0,de,1
 Essensausgaben,Essensausgaben,LOC,0.0,0.0,de,1
-Flughafen ei…,Flughafen ei…,LOC,-1.0,0.0,de,1
-Wüstenstaaten,Wüstenstaaten,LOC,0.0,0.0,de,1
-Gaseinkauf,Gaseinkauf,LOC,0.0,0.0,de,1
-Solidarischer Herbst,Solidarischer Herbst,LOC,0.7,0.0,de,1
-Wetterwoche im Schnellcheck: Goldener Oktober,Wetterwoche im Schnellcheck: Goldener Oktober,LOC,0.0,0.0,de,1
-"Landkreis Starnberg: ""In","Landkreis Starnberg: ""In",LOC,0.0,0.0,de,1
 Land Steiermark,Land Steiermark,LOC,-0.7,0.0,de,1
-Starnberger,Starnberger,LOC,0.0,0.0,de,1
-Cherson,Cherson,LOC,-0.7,0.0,de,1
+Stadt Marburg,Stadt Marburg,LOC,0.0,0.0,de,1
+Gaskrise: Tempelhof-Schöneberg,Gaskrise: Tempelhof-Schöneberg,LOC,0.0,0.0,de-DE,1
+Wärmeräume,Wärmeräume,LOC,0.0,1.0,de-DE,1
+Niedersachsens,Niedersachsens,LOC,-1.0,0.0,de,1
+Spaniens,Spaniens,LOC,0.0,0.0,de,1
+Wilhelmshaven.,Wilhelmshaven.,LOC,0.0,0.0,de,1
+Frankfurter Innenstadt,Frankfurter Innenstadt,LOC,-1.0,0.0,de,1
+Frankfurt,Frankfurt,LOC,-0.35,0.5,de,1
+Schwimmstufen abgenomme…,Schwimmstufen abgenomme…,LOC,0.0,0.0,de,1
+Saline-Sauna,Saline-Sauna,LOC,0.0,0.0,de,1
+Corona-Fallzahlen,Corona-Fallzahlen,LOC,0.0,0.0,de,1
+Corona: Amtsärzte,Corona: Amtsärzte,LOC,0.0,0.0,de,1
+Corona-Regeln,Corona-Regeln,LOC,0.0,0.0,de,1
+See,See,LOC,0.0,1.0,de,1
+Unterbreizbach,Unterbreizbach,LOC,0.0,0.0,de,1
+Dünger-,Dünger-,LOC,0.0,0.0,de,1
+Paris: Stresstest.,Paris: Stresstest.,LOC,0.0,0.0,de,1
+"Sozialproteste: ""Genug","Sozialproteste: ""Genug",LOC,0.7,0.0,de,1
+preußischen Schlössern.,preußischen Schlössern.,LOC,1.0,0.0,de,1
 Steiermark,Steiermark,LOC,-1.0,0.0,de,1
-Büros,Büros,LOC,0.0,1.0,de,1
-Düsseldorfer Konzernzentrale,Düsseldorfer Konzernzentrale,LOC,0.0,0.0,de,1
+Zürichs,Zürichs,LOC,0.0,0.0,de,1
+die Schweiz,die Schweiz,LOC,0.0,1.0,de,1
+Wellness-Einrichtungen,Wellness-Einrichtungen,LOC,0.0,0.0,de,1
+Kommt,Kommt,LOC,0.0,0.0,de,1
+Frankreich?,Frankreich?,LOC,0.7,0.0,de,1
+Ebersberg,Ebersberg,LOC,0.0,0.0,de,1
+Haus  warm,Haus  warm,LOC,0.0,0.0,de-DE,1
+Preisdeckeln,Preisdeckeln,LOC,0.7,0.0,de,1
+Corona-Inzidenz,Corona-Inzidenz,LOC,0.0,0.0,de,1
+Freibadsaison,Freibadsaison,LOC,0.0,0.0,de,1
+Energieversorgers Süwag,Energieversorgers Süwag,LOC,0.0,0.0,de,1
+Hamburgs,Hamburgs,LOC,0.0,0.0,de,1
+London,London,LOC,0.0,0.0,de,1
+Produktions-Drosselungen,Produktions-Drosselungen,LOC,0.0,1.0,de,1
+Rhein,Rhein,LOC,0.0,1.0,de,1
+Taunus,Taunus,LOC,0.0,0.0,de,1
+Gaskrise: Taunusstein,Gaskrise: Taunusstein,LOC,0.0,0.0,de,1
+Deutschlehrer-Info | DW | 21.07.2022.,Deutschlehrer-Info | DW | 21.07.2022.,LOC,0.0,0.0,de,1
+Kontinents,Kontinents,LOC,0.0,0.0,de,1
+Lecks,Lecks,LOC,0.0,0.0,de,1
+Geizen,Geizen,LOC,0.0,0.0,de,1
+Otto-Konzern,Otto-Konzern,LOC,0.0,0.0,de,1
+wÃ¤chst,wÃ¤chst,LOC,0.0,0.0,de,1
+Turkana,Turkana,LOC,0.0,0.0,de,1
+Erde,Erde,LOC,0.0,0.0,de,1
+Klimawandel-Studie: Extreme Dürre,Klimawandel-Studie: Extreme Dürre,LOC,0.0,1.0,de,1
+Krisenwinter,Krisenwinter,LOC,0.0,0.0,de-DE,1
+Gebiet,Gebiet,LOC,0.0,0.0,de,1
+Saporischschja.,Saporischschja.,LOC,0.0,0.0,de,1
+Berlin/Kiew.,Berlin/Kiew.,LOC,0.0,0.0,de,1
+Eis-Winter,Eis-Winter,LOC,1.0,0.0,de,1
+Krankenhaus?,Krankenhaus?,LOC,0.0,0.0,de,1
+eO,eO,LOC,0.0,0.0,de,1
+Bistum Fulda,Bistum Fulda,LOC,0.0,0.0,de,1
+Bistums Mainz,Bistums Mainz,LOC,0.0,0.0,de,1
+Bistum Mainz,Bistum Mainz,LOC,0.0,0.0,de,1
+Expresstempo,Expresstempo,LOC,0.0,0.0,de,1
+Tisch.,Tisch.,LOC,0.0,0.0,de,1
+Kita,Kita,LOC,0.0,0.0,de,1
+Discounter Aldi Nord,Discounter Aldi Nord,LOC,0.0,0.0,de,1
+La Rioja,La Rioja,LOC,0.7,0.0,de,1
+Thüringer Ve…,Thüringer Ve…,LOC,0.0,0.0,de,1
+Schleswig-Holsteins Küste,Schleswig-Holsteins Küste,LOC,0.0,0.0,de,1
+Corona-Sorgen adé?,Corona-Sorgen adé?,LOC,0.0,0.0,de,1
+Bad Tölz,Bad Tölz,LOC,0.0,0.0,de,1
+Bad Tölz:,Bad Tölz:,LOC,0.0,0.0,de,1
+Stadtarchiv,Stadtarchiv,LOC,0.0,0.0,de,1
+Edelboutiquen,Edelboutiquen,LOC,1.0,0.0,de,1
+Neuen Wall,Neuen Wall,LOC,1.0,0.0,de,1
+Gaskrise: Klimaökonom: Winter 23/24,Gaskrise: Klimaökonom: Winter 23/24,LOC,0.0,0.0,de,1
+Klima-Veränderungen,Klima-Veränderungen,LOC,0.7,0.0,de,1
+Butscha,Butscha,LOC,0.0,0.0,de,1
+Reykjavík,Reykjavík,LOC,0.0,0.0,de,1
+Island,Island,LOC,0.0,0.0,de,1
+Pisa,Pisa,LOC,0.0,1.0,de,1
+Prien,Prien,LOC,0.0,1.0,de,1
+Eisenstädter,Eisenstädter,LOC,0.5,0.5,de,1
+Iran,Iran,LOC,0.0,0.0,de,1
+Weltcup-Winter,Weltcup-Winter,LOC,0.0,0.0,de,1
+deutschen Küste,deutschen Küste,LOC,0.0,0.0,de,1
+"Holzdiebstahl: ""Holz","Holzdiebstahl: ""Holz",LOC,0.7,0.0,de,1
+Kalte Wohnung,Kalte Wohnung,LOC,0.0,0.0,de,1
+Münster,Münster,LOC,0.0,0.0,de,1
+Entschlossen,Entschlossen,LOC,-1.0,0.0,de,1
+ZH,ZH,LOC,0.0,0.0,de,1
+Amt,Amt,LOC,0.0,0.0,de,1
+Sparkampagne,Sparkampagne,LOC,0.0,0.0,de,1
+Stromlücke,Stromlücke,LOC,-0.5,0.5,de,1
+Branchenverband,Branchenverband,LOC,-0.7,0.0,de,1
+Fieser Kälteeinbruch: Kommt,Fieser Kälteeinbruch: Kommt,LOC,-1.0,0.0,de,1
+Preisbremse,Preisbremse,LOC,0.0,0.0,de,1
+Madrid,Madrid,LOC,-1.0,0.0,de,1
+Härtefallfonds,Härtefallfonds,LOC,0.0,0.0,de,1
+Axpo.,Axpo.,LOC,0.0,0.0,de,1
+Kernkraftwerk Beznau,Kernkraftwerk Beznau,LOC,0.0,0.0,de,1
+Tokio,Tokio,LOC,0.0,0.0,de,1
+Japan,Japan,LOC,0.0,0.0,de,1
+IEA-Chef,IEA-Chef,LOC,1.0,0.0,de,1
+Corona-Infizierte,Corona-Infizierte,LOC,0.0,1.0,de,1
+weggefallener,weggefallener,LOC,-0.5,0.5,de,1
+Nationalpark Hainich,Nationalpark Hainich,LOC,0.0,0.0,de,1
+Straße,Straße,LOC,0.0,0.0,de,1
+Berlin: Tausende,Berlin: Tausende,LOC,0.0,0.0,de,1
+"Solidarischer Herbst""","Solidarischer Herbst""",LOC,0.0,1.0,de,1
+Solidarischer Herbst,Solidarischer Herbst,LOC,0.7,0.0,de,1
+Gaseinkauf,Gaseinkauf,LOC,0.0,0.0,de,1
+Wüstenstaaten,Wüstenstaaten,LOC,0.0,0.0,de,1
+Saudiarabien,Saudiarabien,LOC,-1.0,0.0,de,1
+Stickstoffproblem,Stickstoffproblem,LOC,0.0,0.0,de,1
+Krankenhäusern.,Krankenhäusern.,LOC,0.0,0.0,de,1
+Brandenburger Tor,Brandenburger Tor,LOC,0.0,0.0,de,1
+"Sächsischer Minister Günther: ""Es","Sächsischer Minister Günther: ""Es",LOC,-1.0,0.0,de,1
+Gasförderkonzern,Gasförderkonzern,LOC,1.0,0.0,de,1
 Briten,Briten,LOC,-0.7,0.0,de,1
 "Chalkida, Griechenland.","Chalkida, Griechenland.",LOC,0.0,0.0,de,1
 Griechenland,Griechenland,LOC,0.7,0.0,de,1
 Bundesrepublik g…,Bundesrepublik g…,LOC,0.0,0.0,de,1
-preußischen Schlössern.,preußischen Schlössern.,LOC,1.0,0.0,de,1
-Paris: Stresstest.,Paris: Stresstest.,LOC,0.0,0.0,de,1
-Niedersachsens,Niedersachsens,LOC,-1.0,0.0,de,1
-Dünger-,Dünger-,LOC,0.0,0.0,de,1
-Mittwoch.,Mittwoch.,LOC,0.7,0.0,de,1
-Regionalversorger:,Regionalversorger:,LOC,0.0,1.0,de,1
-Scholz,Scholz,LOC,0.3333333333333333,0.0,de,1
-Unterbreizbach,Unterbreizbach,LOC,0.0,0.0,de,1
-Kohlekraftwerk Jänschwalde: Alle Blöcke,Kohlekraftwerk Jänschwalde: Alle Blöcke,LOC,0.0,0.0,de,1
-Thermowäsche,Thermowäsche,LOC,0.0,0.0,de,1
-See,See,LOC,0.0,1.0,de,1
-Corona-Regeln,Corona-Regeln,LOC,0.0,0.0,de,1
-Saline-Sauna,Saline-Sauna,LOC,0.0,0.0,de,1
-Wollpullis,Wollpullis,LOC,0.0,0.0,de,1
-Schwimmstufen abgenomme…,Schwimmstufen abgenomme…,LOC,0.0,0.0,de,1
-Frankfurt,Frankfurt,LOC,-0.35,0.5,de,1
-Frankfurter Innenstadt,Frankfurter Innenstadt,LOC,-1.0,0.0,de,1
-Spaniens,Spaniens,LOC,0.0,0.0,de,1
-Kita,Kita,LOC,0.0,0.0,de,1
-die Schweiz,die Schweiz,LOC,0.0,1.0,de,1
-kalten Winter?,kalten Winter?,LOC,-0.7,0.0,de,1
-Discounter Aldi Nord,Discounter Aldi Nord,LOC,0.0,0.0,de,1
-weggefallener,weggefallener,LOC,-0.5,0.5,de,1
-Herbstferienreisenden,Herbstferienreisenden,LOC,-1.0,0.0,de,1
-Kohlekraftwerks Jänschwalde,Kohlekraftwerks Jänschwalde,LOC,0.0,0.0,de,1
-Preisbremse,Preisbremse,LOC,0.0,0.0,de,1
-Schleswig-Holsteins Küste,Schleswig-Holsteins Küste,LOC,0.0,0.0,de,1
-Ukraine-Krieges,Ukraine-Krieges,LOC,0.0,0.0,de,1
-Island,Island,LOC,0.0,0.0,de,1
-Reykjavík,Reykjavík,LOC,0.0,0.0,de,1
-Butscha,Butscha,LOC,0.0,0.0,de,1
-Gaskrise: Klimaökonom: Winter 23/24,Gaskrise: Klimaökonom: Winter 23/24,LOC,0.0,0.0,de,1
-Gaspreisbremse,Gaspreisbremse,LOC,0.0,0.0,de,1
-Thüringer Ve…,Thüringer Ve…,LOC,0.0,0.0,de,1
-eO,eO,LOC,0.0,0.0,de,1
-Neuen Wall,Neuen Wall,LOC,1.0,0.0,de,1
-Edelboutiquen,Edelboutiquen,LOC,1.0,0.0,de,1
-Corona-Sorgen adé?,Corona-Sorgen adé?,LOC,0.0,0.0,de,1
-Bistum Fulda,Bistum Fulda,LOC,0.0,0.0,de,1
-Südbrandenburg,Südbrandenburg,LOC,0.0,0.0,de,1
-Weltcup-Winter,Weltcup-Winter,LOC,0.0,0.0,de,1
-deutschen Küste,deutschen Küste,LOC,0.0,0.0,de,1
-Bistums Mainz,Bistums Mainz,LOC,0.0,0.0,de,1
-Bistum Mainz,Bistum Mainz,LOC,0.0,0.0,de,1
-"Holzdiebstahl: ""Holz","Holzdiebstahl: ""Holz",LOC,0.7,0.0,de,1
-Kalte Wohnung,Kalte Wohnung,LOC,0.0,0.0,de,1
-Tisch.,Tisch.,LOC,0.0,0.0,de,1
-Japan,Japan,LOC,0.0,0.0,de,1
-Kernkraftwerk Beznau,Kernkraftwerk Beznau,LOC,0.0,0.0,de,1
-Axpo.,Axpo.,LOC,0.0,0.0,de,1
-Härtefallfonds,Härtefallfonds,LOC,0.0,0.0,de,1
-Pisa,Pisa,LOC,0.0,1.0,de,1
-Prien,Prien,LOC,0.0,1.0,de,1
-österreichische Regierung,österreichische Regierung,LOC,0.0,0.0,de,1
-Eis-Winter,Eis-Winter,LOC,1.0,0.0,de,1
-Stadt Winterthur,Stadt Winterthur,LOC,0.0,0.0,de,1
-Zürichs,Zürichs,LOC,0.0,0.0,de,1
-Hamburgs,Hamburgs,LOC,0.0,0.0,de,1
-Winter-Rezession,Winter-Rezession,LOC,0.0,0.0,de,1
-Turkana,Turkana,LOC,0.0,0.0,de,1
-Spanien.,Spanien.,LOC,0.0,0.0,de,1
-Ifo-GeschÃ¤ftsklima,Ifo-GeschÃ¤ftsklima,LOC,0.0,0.0,de,1
-Konjunktur: Ifo-GeschÃ¤ftsklima,Konjunktur: Ifo-GeschÃ¤ftsklima,LOC,0.0,0.0,de,1
-Heizen,Heizen,LOC,0.0,0.0,de,1
-Erde,Erde,LOC,0.0,0.0,de,1
-Klimawandel-Studie: Extreme Dürre,Klimawandel-Studie: Extreme Dürre,LOC,0.0,1.0,de,1
-Notfallszenarien,Notfallszenarien,LOC,0.0,0.0,de,1
-Krisenwinter,Krisenwinter,LOC,0.0,0.0,de-DE,1
+Wetterwoche im Schnellcheck: Goldener Oktober,Wetterwoche im Schnellcheck: Goldener Oktober,LOC,0.0,0.0,de,1
+"Landkreis Starnberg: ""In","Landkreis Starnberg: ""In",LOC,0.0,0.0,de,1
+Starnberger,Starnberger,LOC,0.0,0.0,de,1
+Cherson,Cherson,LOC,-0.7,0.0,de,1
 Corona,Corona,LOC,0.7,0.0,de,1
-Gebiet,Gebiet,LOC,0.0,0.0,de,1
-Krankenhäusern.,Krankenhäusern.,LOC,0.0,0.0,de,1
-Corona-Infizierte,Corona-Infizierte,LOC,0.0,1.0,de,1
-Klima-Veränderungen,Klima-Veränderungen,LOC,0.7,0.0,de,1
-IEA-Chef,IEA-Chef,LOC,1.0,0.0,de,1
-Iran,Iran,LOC,0.0,0.0,de,1
-Saporischschja.,Saporischschja.,LOC,0.0,0.0,de,1
-Berlin/Kiew.,Berlin/Kiew.,LOC,0.0,0.0,de,1
-Eisenstädter,Eisenstädter,LOC,0.5,0.5,de,1
-Gaskrise: Temperatur,Gaskrise: Temperatur,LOC,0.0,0.0,de,1
+Notfallszenarien,Notfallszenarien,LOC,0.0,0.0,de,1
+Guerilla-Aktion,Guerilla-Aktion,LOC,0.0,0.0,de,1
+Heizen,Heizen,LOC,0.0,0.0,de,1
+Konjunktur: Ifo-GeschÃ¤ftsklima,Konjunktur: Ifo-GeschÃ¤ftsklima,LOC,0.0,0.0,de,1
+Ifo-GeschÃ¤ftsklima,Ifo-GeschÃ¤ftsklima,LOC,0.0,0.0,de,1
+Spanien.,Spanien.,LOC,0.0,0.0,de,1
+Winter-Rezession,Winter-Rezession,LOC,0.0,0.0,de,1
+Weltcup-Verantwortlichen,Weltcup-Verantwortlichen,LOC,0.0,0.0,de,1
+Südbrandenburg,Südbrandenburg,LOC,0.0,0.0,de,1
+Kohlekraftwerks Jänschwalde,Kohlekraftwerks Jänschwalde,LOC,0.0,0.0,de,1
+Flughafen ei…,Flughafen ei…,LOC,-1.0,0.0,de,1
+Herbstferienreisenden,Herbstferienreisenden,LOC,-1.0,0.0,de,1
+Düsseldorfer Konzernzentrale,Düsseldorfer Konzernzentrale,LOC,0.0,0.0,de,1
+Büros,Büros,LOC,0.0,1.0,de,1
+Bundesrepublik,Bundesrepublik,LOC,0.0,0.0,de,1
